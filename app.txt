@@ -1,1 +1,5 @@
-Hello from both branchesRevert practice 
+Hello from both branches
+
+Revert practice 
+
+VS Code practice started.
